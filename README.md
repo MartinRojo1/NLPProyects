@@ -1,4 +1,4 @@
-# NLP Proyects
+# NLP Proyects 📝
 
 Welcome to my NLP section, where I share my projects and explorations in the field of Natural Language Processing. NLP is a branch of artificial intelligence that focuses on how machines can understand, interpret, and generate human language.
 

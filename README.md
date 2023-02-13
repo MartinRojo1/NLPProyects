@@ -17,7 +17,8 @@ In my NLP projects, I have used the following tools and technologies:
 • TensorFlow <br>
 • NLTK <br>
 • SpaCy <br>
-• Hugging Face Transformers 
+• Hugging Face Transformers <br>
+• Bert
 
 ### Additional resources
 

@@ -24,6 +24,6 @@ In my NLP projects, I have used the following tools and technologies:
 
 If you're interested in learning more about NLP, here are some additional resources you can check out:
 
-• Anyone AI Bootcamp
+• Anyone AI Bootcamp.
 
 If you're interested in learning more about NLP, here are some additional resources you can check out:
